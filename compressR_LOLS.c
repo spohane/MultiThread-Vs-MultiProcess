@@ -1,4 +1,4 @@
-//sed96, sp1106
+
 
 #include <stdio.h>
 #include <string.h>
